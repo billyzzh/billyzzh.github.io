@@ -11,7 +11,7 @@ title                    : "Dr. Zhiheng Zhao (Billy)"
 title_separator          : "-"
 name                     : &name "Zhiheng Zhao (Billy)"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://billyzzh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
