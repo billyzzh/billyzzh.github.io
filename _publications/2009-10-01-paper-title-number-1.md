@@ -1,15 +1,9 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2099-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+1.	Zhao, Z., Lin, P., Shen, L., Zhang, M., & Huang, G. Q. (2020). IoT edge computing-enabled collaborative tracking system for manufacturing resources in industrial park. Advanced Engineering Informatics, 43, 101044. 
+2.	Zhao, Z., Zhang, M., Chen, J., Qu, T., & Huang, G. Q. (2022). Digital Twin-enabled Dynamic Spatial-temporal Knowledge Graph for Production Logistics Resource Allocation. Computers & Industrial Engineering, 108454.
+3.	Wu, W., Shen, L., Zhao, Z.*, Li, M., & Huang, G. Q. (2022). Industrial IoT and Long Short-Term Memory Network Enabled Genetic Indoor Tracking for Factory Logistics. IEEE Transactions on Industrial Informatics.
+4.	Zhan, X., Wu, W., Shen, L., Liao, W., Zhao, Z., & Xia, J. (2022). Industrial internet of things and unsupervised deep learning enabled real-time occupational safety monitoring in cold storage warehouse. Safety Science, 152, 105766.
+5.	Zhao, Z., Zhang, M., Yang, C., Fang, J. and Huang, G.Q., (2018). Distributed and collaborative proactive tandem location tracking of vehicle products for warehouse operations. Computers & Industrial Engineering, 2018, 125, 
+6.	Zhao, Z., Fang, J., Huang, G. Q., & Zhang, M. (2017). Location management of cloud forklifts in finished product warehouse. International Journal of Intelligent Systems, 32(4), 342-370.
+7.	Zhao, Z., Fang, J., Huang, G. Q., & Zhang, M. (2016, September). iBeacon enabled indoor positioning for warehouse management. In Computational and Business Intelligence (ISCBI), 2016 4th International Symposium on (pp. 21-26). IEEE. 
+8.	Wu, W., Zhao, Z., Shen, L., Kong, X. T., Guo, D., Zhong, R. Y., & Huang, G. Q. (2022). Just Trolley: Implementation of industrial IoT and digital twin-enabled spatial-temporal traceability and visibility for finished goods logistics. Advanced Engineering Informatics, 52, 101571.
+9.	Zhao, Z., Zhang, M., Xu, G., Zhang, D., & Huang, G. Q. (2020). Logistics sustainability practices: an IoT-enabled smart indoor parking system for industrial hazardous chemical vehicles. International Journal of Production Research,58(24), 7490-7506. 
