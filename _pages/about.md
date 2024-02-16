@@ -1,13 +1,24 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Publications"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+1.	Zhao, Z., Lin, P., Shen, L., Zhang, M., & Huang, G. Q. (2020). IoT edge computing-enabled collaborative tracking system for manufacturing resources in industrial park. Advanced Engineering Informatics, 43, 101044. 
+2.	Zhao, Z., Zhang, M., Chen, J., Qu, T., & Huang, G. Q. (2022). Digital Twin-enabled Dynamic Spatial-temporal Knowledge Graph for Production Logistics Resource Allocation. Computers & Industrial Engineering, 108454.
+3.	Wu, W., Shen, L., Zhao, Z.*, Li, M., & Huang, G. Q. (2022). Industrial IoT and Long Short-Term Memory Network Enabled Genetic Indoor Tracking for Factory Logistics. IEEE Transactions on Industrial Informatics.
+4.	Zhan, X., Wu, W., Shen, L., Liao, W., Zhao, Z., & Xia, J. (2022). Industrial internet of things and unsupervised deep learning enabled real-time occupational safety monitoring in cold storage warehouse. Safety Science, 152, 105766.
+5.	Zhao, Z., Zhang, M., Yang, C., Fang, J. and Huang, G.Q., (2018). Distributed and collaborative proactive tandem location tracking of vehicle products for warehouse operations. Computers & Industrial Engineering, 2018, 125, 
+6.	Zhao, Z., Fang, J., Huang, G. Q., & Zhang, M. (2017). Location management of cloud forklifts in finished product warehouse. International Journal of Intelligent Systems, 32(4), 342-370.
+7.	Zhao, Z., Fang, J., Huang, G. Q., & Zhang, M. (2016, September). iBeacon enabled indoor positioning for warehouse management. In Computational and Business Intelligence (ISCBI), 2016 4th International Symposium on (pp. 21-26). IEEE. 
+8.	Wu, W., Zhao, Z., Shen, L., Kong, X. T., Guo, D., Zhong, R. Y., & Huang, G. Q. (2022). Just Trolley: Implementation of industrial IoT and digital twin-enabled spatial-temporal traceability and visibility for finished goods logistics. Advanced Engineering Informatics, 52, 101571.
+9.	Zhao, Z., Zhang, M., Xu, G., Zhang, D., & Huang, G. Q. (2020). Logistics sustainability practices: an IoT-enabled smart indoor parking system for industrial hazardous chemical vehicles. International Journal of Production Research,58(24), 7490-7506. 
+
+
+
 
 A data-driven personal website
 ======
